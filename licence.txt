@@ -1,0 +1,1 @@
+This software is provided for evaluation purposes only. You may use and test this plugin, but redistribution or commercial use is prohibited without explicit permission from the author.
