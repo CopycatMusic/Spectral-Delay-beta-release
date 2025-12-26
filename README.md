@@ -39,7 +39,7 @@
 ### Installation
 
 #### Download
-Download the latest release from [GitHub Releases](https://github.com/CopycatMusic/SpectralDelay/releases).
+Download the latest release from [GitHub Releases](https://github.com/CopycatMusic/Spectral-Delay-beta-release/releases/tag/v0.2.3beta).
 
 #### Installation Paths
 
@@ -69,9 +69,7 @@ The plugin interface is divided into two main sections:
 - **Mode Toggle**: Switch between Phase and Delay modes
 - **Multiply Sliders**: Scale the effect of each parameter (0-100%)
 - **FFT Size**: Select FFT window size (256-8192)
-- **Overlap**: Select overlap factor (2x, 4x, 8x)
-- **Display**: Toggle between Line and Bar visualization
-- **Source**: Switch between Input and Output spectrum display
+- **Display options**: Toggle between Line and Bar visualization, Switch between Input and Output spectrum display
 - **Mix**: Dry/Wet balance control
 
 ### License
