@@ -90,7 +90,7 @@ This software is provided for personal use only. Redistribution or modification 
 
 ### 概述
 
-**CopyCat Spectral Delay**是一款频谱音频效果器插件
+**CopyCat Spectral Delay**是一款**频谱音频效果器插件**
 
 ### 界面截图
 
@@ -113,10 +113,13 @@ This software is provided for personal use only. Redistribution or modification 
 ```
 C:\Program Files\Common Files\VST3\
 ```
-### 许可证
 
-**保留所有权利** © 2025 CopyCat
 
+### licence
+
+**All Rights Reserved** © 2025 CopyCat
+
+This software is provided for personal use only. Redistribution or modification without permission is prohibited.
 本软件仅供个人使用。未经许可不得重新分发或修改。
 
 ### 致谢
