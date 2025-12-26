@@ -12,8 +12,7 @@
 
 ### Screenshot
 
-<!-- TODO: Add screenshot -->
-*Screenshot coming soon*
+![v0.2.3beta screenshot](assets/v0.2.3beta/v0.2.3beta.png)
 
 ### Features
 
